@@ -1,6 +1,5 @@
 import 'package:bloc/bloc.dart';
 
-import 'package:bloc/bloc.dart';
 
 class CounterBlocObserver extends BlocObserver {
   const CounterBlocObserver();
